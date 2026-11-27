@@ -1,0 +1,15 @@
+{
+  "name": "Daylight Lab",
+  "dataColors": ["#0a66c2", "#16a34a", "#d97706", "#dc2626", "#7c3aed", "#0891b2"],
+  "background": "#ffffff",
+  "foreground": "#1e293b",
+  "tableAccent": "#0a66c2",
+  "good": "#16a34a",
+  "neutral": "#d97706",
+  "bad": "#dc2626",
+  "textClasses": {
+    "title": { "fontSize": 16, "fontFace": "Segoe UI Semibold", "color": "#0f172a" },
+    "label": { "fontSize": 11, "fontFace": "Segoe UI", "color": "#64748b" },
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#0f172a" }
+  }
+}
