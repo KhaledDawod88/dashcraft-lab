@@ -1,0 +1,23 @@
+{
+  "name": "Midnight Lab",
+  "dataColors": ["#22d3ee", "#818cf8", "#34d399", "#fbbf24", "#f472b6", "#a3e635"],
+  "background": "#0f172a",
+  "foreground": "#e2e8f0",
+  "tableAccent": "#22d3ee",
+  "good": "#34d399",
+  "neutral": "#fbbf24",
+  "bad": "#f472b6",
+  "textClasses": {
+    "title": { "fontSize": 16, "fontFace": "Segoe UI Semibold", "color": "#f8fafc" },
+    "label": { "fontSize": 11, "fontFace": "Segoe UI", "color": "#94a3b8" },
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#f8fafc" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#1e293b" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#334155" } }, "radius": 12 }]
+      }
+    }
+  }
+}
